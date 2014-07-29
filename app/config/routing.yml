@@ -1,0 +1,4 @@
+servilink_home:
+    resource: "@ServilinkHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+

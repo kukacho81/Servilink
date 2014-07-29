@@ -1,0 +1,7 @@
+parameters:
+#    servilink_home.example.class: Servilink\HomeBundle\Example
+
+services:
+#    servilink_home.example:
+#        class: %servilink_home.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
